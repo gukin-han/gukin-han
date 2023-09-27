@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/gukin?theme=unicorn)
+![LeetCode Stats](https://leetcard.jacoblin.cool/gukin)

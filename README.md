@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ![LeetCode Stats](https://leetcard.jacoblin.cool/gukin)
 -->
-|연도|1|2|
+|YY\M|Nov|Oct|
 |---|---|---|
-|2023|<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-10.gif" height="100px"/>|<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-11.gif" height="100px"/> |
+|23|<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-11.gif" height="100px"/>|<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-10.gif" height="100px"/> |
  
 

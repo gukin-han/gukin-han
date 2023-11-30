@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ![LeetCode Stats](https://leetcard.jacoblin.cool/gukin)
 -->
-
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-11.gif" height="100px"/> 
 <img src = "https://leetcode.com/static/images/badges/2023/gif/2023-10.gif" height="100px"/> 

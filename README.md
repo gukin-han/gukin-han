@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 -->
 |YY\M|Nov|Oct|
 |---|---|---|
-|23|<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-11.gif" height="100px"/>|<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-10.gif" height="100px"/> |
+|23|<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-11.gif" height="50px"/>|<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-10.gif" height="50px"/> |
  
 

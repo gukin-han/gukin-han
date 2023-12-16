@@ -18,5 +18,8 @@ Here are some ideas to get you started:
 |YY\M|Nov|Oct|
 |---|---|---|
 |23|<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-11.gif" height="50px"/>|<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-10.gif" height="50px"/> |
- 
+<br/>
 
+|Awarded 4.2% <br/>of LeetCoders|Awarded <br/>6.9% of LeetCoders|
+|--------------------------|--------------------------|
+|<img src = "https://assets.leetcode.com/static_assets/marketing/2023-100.gif" height="50px"/>|<img src = "https://assets.leetcode.com/static_assets/marketing/2023-50.gif" height="50px"/>|

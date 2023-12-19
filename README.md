@@ -15,11 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ![LeetCode Stats](https://leetcard.jacoblin.cool/gukin)
 -->
-|YY\M|Nov|Oct|
-|---|---|---|
-|23|<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-11.gif" height="50px"/>|<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-10.gif" height="50px"/> |
+|9|7|6|5|4|3|2|1|0|
+|-|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|<img src = "https://assets.leetcode.com/static_assets/marketing/2023-100.gif" height="50px"/>|<img src = "https://assets.leetcode.com/static_assets/marketing/2023-50.gif" height="50px"/>|<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-11.gif" height="50px"/>|<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-10.gif" height="50px"/> |
 <br/>
-
-|Awarded 4.2%<br/>of LeetCoders|Awarded 6.9%<br/>of LeetCoders|
-|--------------------------|--------------------------|
-|<img src = "https://assets.leetcode.com/static_assets/marketing/2023-100.gif" height="50px"/>|<img src = "https://assets.leetcode.com/static_assets/marketing/2023-50.gif" height="50px"/>|
